@@ -15,7 +15,7 @@ int outPorts[] = {33, 27, 26, 25};
 const char *ssid_Router     = "xxxxx"; //Enter the router name
 const char *password_Router = "xxxxx"; //Enter the router password
 
-String address= "http://165.227.76.232:3000/hp2380/running";
+String address= "http://165.227.76.232:3000/hpxxxx/running";
 
 void setup(){
   
